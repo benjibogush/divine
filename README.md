@@ -10,7 +10,7 @@ Only and only add one at a time to ensure you do not make mistakes on other part
 
 4- Once you found the changed and fixed errors on a file, type `git add /path/to/file` just copy path from the commandline after checking status, it provides you the path there. Alternatively, there are other ways, please do some research as needed!
 
-5- Next, type ` git commit -m "commit message of what/why change!" ` Replace the text inside double quotes!
+5- Next, type `git commit -m "commit message of what/why change!"` Replace the text inside double quotes!
 
 6- Finally push your changes into github remote branch by typing `git push origin feature/patch`
 
